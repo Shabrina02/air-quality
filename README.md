@@ -1,11 +1,14 @@
 # Air Quality Guanyuan Dashboard ✨
+
 ## Setup Environment - Shell/Terminal
 ```
-myenv\Scripts\activate 
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
 ## Run steamlit app
 ```
 streamlit run dashboard.py
+http://localhost:8501
 ```
