@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Load dataset
 st.title("Air Quality Dashboard - Guanyuan Station")
-all_data = pd.read_csv("C:/Users/Shabrina/Documents/[03] Career path/202411 - IDCamp Dicoding/Latihan/all_data.csv")
+all_data = pd.read_csv("all_data.csv")
 all_data['timestamp'] = pd.to_datetime(all_data['timestamp'])
 
 sorted_months = list(range(1, 13))  # Proper month order
