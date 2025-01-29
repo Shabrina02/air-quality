@@ -1,4 +1,4 @@
-# Air Quality Guanyuan Dashboard ✨
+# Air Quality Analysis: Guanyuan Station ✨
 
 ## Setup Environment - Shell/Terminal
 ```
