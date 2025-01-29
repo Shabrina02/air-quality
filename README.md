@@ -10,6 +10,6 @@ streamlit run dashboard\dashboard.py
 ```
 ## Dashboard
 ```
-[Dashboard](https://air-quality-guanyuanst.streamlit.app)
+https://air-quality-guanyuanst.streamlit.app
 
 
