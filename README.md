@@ -4,8 +4,10 @@
 ```
 pip install -r requirements.txt
 ```
-
 ## Run steamlit app
 ```
 streamlit run dashboard\dashboard.py
 ```
+## Dashboard
+```
+https://air-quality-guanyuanst.streamlit.app/
