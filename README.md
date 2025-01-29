@@ -9,7 +9,6 @@ pip install -r requirements.txt
 streamlit run dashboard\dashboard.py
 ```
 ## Dashboard
-```
 https://air-quality-guanyuanst.streamlit.app
 
 
